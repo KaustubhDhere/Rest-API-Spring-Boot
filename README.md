@@ -35,13 +35,10 @@ Before you begin, ensure you have met the following requirements:
     ```bash
     cd Rest-API-Spring-Boot
     
-3. Build and run the project:
+3. Build and run the project: ./mvnw spring-boot:run
+    or using your IDE.
 
-  ./mvnw spring-boot:run
-
-  or using your IDE.
-
-  ##Contributing
+  ### Contributing
    If you would like to contribute to the project, follow these steps:
 
       1.Fork the project.
