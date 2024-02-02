@@ -36,7 +36,7 @@ Before you begin, ensure you have met the following requirements:
     cd Rest-API-Spring-Boot
     
 3. Build and run the project:
-4.  ```bash
+
   ./mvnw spring-boot:run
 
   or using your IDE.
